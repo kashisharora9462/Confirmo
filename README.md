@@ -16,5 +16,4 @@ Key Features
     🖼️ Portable: Digitized documents are protable, and can be verified from anywhere.
 
 Installation
-
 Check installation guide at :- https://github.com/thehardiik/Confirmo/blob/main/Installation%20Guide.md
