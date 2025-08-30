@@ -20,7 +20,7 @@ Installation
 
  1.   Clone the repository:
 
-     git clone https://github.com/thehardiik/Confirmo.git
+     git clone https://github.com/kashisharora9462/Confirmo
 
  2.   Navigate to the project directory:
 
