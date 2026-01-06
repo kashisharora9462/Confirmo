@@ -56,3 +56,11 @@ Installation
 
 10.    Access the application in your browser
 
+<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/d9d3f16c-06e8-417e-a3fa-87878a0efc46" />
+
+<img width="1905" height="821" alt="image" src="https://github.com/user-attachments/assets/7abd1aca-c817-429f-a674-1f8d33413b58" />
+
+<img width="1877" height="852" alt="image" src="https://github.com/user-attachments/assets/085a989c-1623-4c95-8ae7-b22cdf704198" />
+
+
+
